@@ -1,0 +1,16 @@
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\selection103681990.exe
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\selection103681990.deps.json
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\selection103681990.runtimeconfig.json
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\selection103681990.runtimeconfig.dev.json
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\selection103681990.dll
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\ref\selection103681990.dll
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\bin\Debug\net5.0\selection103681990.pdb
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.csprojAssemblyReference.cache
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.AssemblyInfoInputs.cache
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.AssemblyInfo.cs
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.csproj.CoreCompileInputs.cache
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.dll
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\ref\selection103681990.dll
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.pdb
+C:\Users\eve\Documents\uni\prog\SelectionAssignment\obj\Debug\net5.0\selection103681990.genruntimeconfig.cache

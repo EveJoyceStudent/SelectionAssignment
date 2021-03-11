@@ -1,0 +1,16 @@
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.csprojAssemblyReference.cache
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.AssemblyInfoInputs.cache
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.AssemblyInfo.cs
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.csproj.CoreCompileInputs.cache
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\week2.exe
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\week2.deps.json
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\week2.runtimeconfig.json
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\week2.runtimeconfig.dev.json
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\week2.dll
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\ref\week2.dll
+C:\Users\eve\Documents\uni\prog\week2\bin\Debug\net5.0\week2.pdb
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.dll
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\ref\week2.dll
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.pdb
+C:\Users\eve\Documents\uni\prog\week2\obj\Debug\net5.0\week2.genruntimeconfig.cache
